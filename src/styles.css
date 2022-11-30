@@ -1,1 +1,12 @@
 /* Add application styles & imports to this file! */
+body{
+  background-color: lightgray;
+}
+
+h2{
+  color: brown;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+  font-size: 20pt;
+
+}
